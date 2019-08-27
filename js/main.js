@@ -25,10 +25,13 @@ function addRedDot(){
 
 		if(playerTopRed2.length == 2){
 
+      playerTopRed1[0].classList.remove('redlvl1');
+      playerTopRed1[1].classList.remove('redlvl1');
 			playerTopRed2[0].classList.add('redlvl3');
 			playerTopRed2[0].classList.remove('redlvl2');
 			playerTopRed2[1].classList.remove('redlvl2');
 			playerTopRed2[2].classList.remove('redlvl2');
+
 
 		}
 
