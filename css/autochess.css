@@ -1,0 +1,29 @@
+#plateau{
+	width:602px;
+	height:602px;
+}
+
+.case{
+	width:96px;
+	height:96px;
+	border:1px dotted rgba(0,0,0,0.3);
+	display:inline-block;
+}
+
+.redlvl1{
+	background-image:url('../images/redlvl1.png');
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+
+.redlvl2{
+	background-image:url('../images/redlvl2.png');
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+
+.redlvl3{
+	background-image:url('../images/redlvl3.png');
+	background-repeat:no-repeat;
+	background-position:center center;
+}
