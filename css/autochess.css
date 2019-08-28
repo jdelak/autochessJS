@@ -10,20 +10,55 @@
 	display:inline-block;
 }
 
-.redlvl1{
-	background-image:url('../images/redlvl1.png');
+
+#bloodelf_archer{
+	width:96px;
+	height:96px;
+	background-image:url('../images/bloodelf_archer.png');
 	background-repeat:no-repeat;
 	background-position:center center;
 }
 
-.redlvl2{
-	background-image:url('../images/redlvl2.png');
+#nightelf_mage{
+	width:96px;
+	height:96px;
+	background-image:url('../images/nightelf_mage.png');
 	background-repeat:no-repeat;
 	background-position:center center;
 }
 
-.redlvl3{
-	background-image:url('../images/redlvl3.png');
+.bloodelf_archer_lvl1{
+	background-image:url('../images/bloodelf_archer_idle_lvl1.gif');
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+
+.bloodelf_archer_lvl2{
+	background-image:url('../images/bloodelf_archer_idle_lvl2.gif');
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+
+.bloodelf_archer_lvl3{
+	background-image:url('../images/bloodelf_archer_idle_lvl3.gif');
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+
+.nightelf_mage_lvl1{
+	background-image:url('../images/nightelf_mage_idle_lvl1.gif');
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+
+.nightelf_mage_lvl2{
+	background-image:url('../images/nightelf_mage_idle_lvl2.gif');
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+
+.nightelf_mage_lvl3{
+	background-image:url('../images/nightelf_mage_idle_lvl3.gif');
 	background-repeat:no-repeat;
 	background-position:center center;
 }
