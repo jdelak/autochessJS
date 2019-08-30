@@ -59,7 +59,7 @@ function addHero($iD){
 
 			playerCase[carre].classList.add($iDBouton+"_lvl1");
 	  	playerCase[carre].classList.add("hero");
-      playerCase[carre].innerHTML = "<span class='health'>"+heroArray[i].health+"</span>"
+      playerCase[carre].innerHTML = "<div class='health'><div class='bar'>"+heroArray[i].health+"</div></div>"
   		}
 
   	}
