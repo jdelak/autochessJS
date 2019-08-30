@@ -8,6 +8,13 @@
 	height:96px;
 	border:1px dotted rgba(0,0,0,0.3);
 	display:inline-block;
+	position: relative;
+}
+
+.health{
+	position: absolute;
+	left: 32px;
+	top: -20px;
 }
 
 
